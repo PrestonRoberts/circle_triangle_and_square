@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0580c4e5b745461489f6788d012f2dcc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blue: {instanceID: 0}
+  - red: {instanceID: 0}
+  - green: {instanceID: 0}
+  - yellow: {instanceID: 0}
+  - white: {instanceID: 0}
+  - blueSound: {fileID: 8300000, guid: 9f0abf506bff94048bd2fa155c4796f4, type: 3}
+  - redSound: {fileID: 8300000, guid: c8106670cd2c9b3438d2c4a4d597b38d, type: 3}
+  - greenSound: {fileID: 8300000, guid: 4a5b9fedf38c08b43b6e30a6241e1688, type: 3}
+  - yellowSound: {fileID: 8300000, guid: d1415662baef1a34d9c5b12337bdeb0c, type: 3}
+  - whiteSound: {fileID: 8300000, guid: e9b0d99e29d962640841d22bbba0871a, type: 3}
+  - imageComponent: {instanceID: 0}
+  - rectTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

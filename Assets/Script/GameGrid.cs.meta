@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1dc6bc236802c9b42ba6d1b06c1e76ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gridLayoutGroup: {instanceID: 0}
+  - gridRectTransform: {instanceID: 0}
+  - gridSquarePrefab: {fileID: 5150311018101790464, guid: 7c821cc9f21243d41a4ced2e91f0e671, type: 3}
+  - playerCirclePrefab: {fileID: 2629819683228966276, guid: 2a6c8b3076deaa747bef896e22a36a47, type: 3}
+  - checkpointFlagPrefab: {fileID: 5058929881338933173, guid: cc71231b8110e784091ee8bfbb5e946e, type: 3}
+  - startStopButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
